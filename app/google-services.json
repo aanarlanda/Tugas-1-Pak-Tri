@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245098391574",
+    "firebase_url": "https://travelaan-bd64a.firebaseio.com",
+    "project_id": "travelaan-bd64a",
+    "storage_bucket": "travelaan-bd64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245098391574:android:090737ad9da648c7436d37",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.a1711500080travelaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245098391574-q8vm6nqucokk7b3jju62cvkqc2pcopfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.a1711500080travelaan",
+            "certificate_hash": "03ea76bc01ff7cd2f35c7f4c5f0c448eeba7baae"
+          }
+        },
+        {
+          "client_id": "245098391574-8tvf0jmenka4ab2qf3psgmntboi7j53f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpL_-jVV57_v1ZuYIgVJDlR20gjxJQQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245098391574-8tvf0jmenka4ab2qf3psgmntboi7j53f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
